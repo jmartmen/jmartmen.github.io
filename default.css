@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    background-image: url(1-B.Photoshop.JMM.png); /* Replace with your background image path */
+    background-image: url(1-B.Photoshop.JMM.png); 
     background-size: cover;
     background-position: center;
     display: flex;
